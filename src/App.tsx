@@ -6,6 +6,7 @@ export default function App() {
     <MantineProvider>
       <div>
         <Button>Mantine button</Button>
+        <h1 className="text-red-500">tailwind text</h1>
       </div>
     </MantineProvider>
   );
